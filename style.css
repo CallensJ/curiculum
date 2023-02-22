@@ -191,7 +191,14 @@ margin-top: 5px;
 .about{
     margin-bottom: 50px;
 }
-
+.competences,.interests{
+    
+    line-height: 25px;
+}
+.competences .content p,
+.interests .content p{
+    padding-left: 10px;
+}
 .about:last-child{
     margin-bottom: 0;
 }
