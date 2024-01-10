@@ -141,6 +141,13 @@ li {
     font-weight: 300;
 
 }
+.contactInfo .image{
+    display:block;
+    padding-top: 1rem;
+    max-width: 200px;
+    margin: 0 auto;
+    height: auto;
+}
 
 .contactInfo .education li{
     margin-bottom: 15px;
