@@ -16,6 +16,7 @@ body{
     justify-content: center;
     align-items:  center;
     min-height: 100vh;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 
@@ -206,6 +207,7 @@ margin-top: 5px;
 .competences .content p,
 .interests .content p{
     padding-left: 10px;
+   
 }
 .about:last-child{
     margin-bottom: 0;
